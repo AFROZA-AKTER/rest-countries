@@ -1,0 +1,9 @@
+.country{
+    background-color: paleturquoise;
+    border: 2px solid salmon;
+    border-radius: 20px;
+    margin: 20px;
+}
+.country img{
+    width: 200px;
+}
